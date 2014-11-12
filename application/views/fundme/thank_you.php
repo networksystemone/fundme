@@ -1,0 +1,3 @@
+<p>
+	Please help me <a href="<?php echo $my_gofundme_url; ?>">donate my campaign on GoFundMe</a> and <a href="https://www.facebook.com/sharer/sharer.php?app_id=1429685730646033&u=http://fundme.phatpham.com/">share my project</a> to everyone, or just <a href="<?php echo site_url('contact_me'); ?>">send me a message</a> or every question. Your supports are my motivation to make this dream come true. Thank you :)
+</p>
